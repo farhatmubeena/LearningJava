@@ -4,7 +4,7 @@ public class lab010 {
         System.out.println(a++ + ++a);
         //a++ =10
         //+
-        //++a = 11  --> 21
+        //++a = 11 -->12  --> 22
 
         System.out.println(a);
     }
